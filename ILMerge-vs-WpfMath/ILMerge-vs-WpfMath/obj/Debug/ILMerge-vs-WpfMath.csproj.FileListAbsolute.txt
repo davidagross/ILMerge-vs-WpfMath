@@ -1,0 +1,14 @@
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\bin\Debug\ILMerge-vs-WpfMath.exe.config
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\bin\Debug\ILMerge-vs-WpfMath.exe
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\bin\Debug\ILMerge-vs-WpfMath.pdb
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\bin\Debug\System.ValueTuple.dll
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\bin\Debug\WpfMath.dll
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\bin\Debug\System.ValueTuple.xml
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\bin\Debug\WpfMath.pdb
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\obj\Debug\ILMerge_vs_WpfMath.Renderer.resources
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\obj\Debug\ILMerge_vs_WpfMath.Properties.Resources.resources
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\obj\Debug\ILMerge-vs-WpfMath.csproj.GenerateResource.cache
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\obj\Debug\ILMerge-vs-WpfMath.csproj.CoreCompileInputs.cache
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\obj\Debug\ILMerge-vs-WpfMath.csproj.CopyComplete
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\obj\Debug\ILMerge-vs-WpfMath.exe
+C:\Users\davidg\Documents\GitHub\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\ILMerge-vs-WpfMath\obj\Debug\ILMerge-vs-WpfMath.pdb
